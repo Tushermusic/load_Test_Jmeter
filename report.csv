@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1699526550974,1219,HTTP Request,200,OK,Thread Group 1-2,text,true,,1781,119,5,5,https://bugresistance.com/,1208,0,614
+1699526551378,815,HTTP Request,200,OK,Thread Group 1-3,text,true,,1781,119,5,5,https://bugresistance.com/,804,0,210
+1699526550715,1508,HTTP Request,200,OK,Thread Group 1-1,text,true,,1781,119,3,3,https://bugresistance.com/,1508,0,878
+1699526551767,508,HTTP Request,200,OK,Thread Group 1-4,text,true,,1781,119,2,2,https://bugresistance.com/,508,0,118
+1699526552167,178,HTTP Request,200,OK,Thread Group 1-5,text,true,,1781,119,1,1,https://bugresistance.com/,178,0,124
+1699526552569,184,HTTP Request,200,OK,Thread Group 1-6,text,true,,1781,119,1,1,https://bugresistance.com/,184,0,129
+1699526552966,187,HTTP Request,200,OK,Thread Group 1-7,text,true,,1781,119,1,1,https://bugresistance.com/,187,0,126
+1699526553369,180,HTTP Request,200,OK,Thread Group 1-8,text,true,,1781,119,1,1,https://bugresistance.com/,180,0,126
+1699526553768,223,HTTP Request,200,OK,Thread Group 1-9,text,true,,1781,119,1,1,https://bugresistance.com/,223,0,169
+1699526554169,182,HTTP Request,200,OK,Thread Group 1-10,text,true,,1781,119,1,1,https://bugresistance.com/,170,0,117
